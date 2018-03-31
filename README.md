@@ -8,6 +8,7 @@
 - [assign2](#assign2)
 - [assign3-1](#assign3-1)
 - [assign3-2](#assign3-2)
+- [assign4-1](#assign4-1)
 
 ## assign1
 
@@ -38,6 +39,7 @@
     鸡：7
     兔：3
 
+## assign4-1
 
 
 
