@@ -13,7 +13,6 @@ a.reverse()
 a = list(reversed(a))
 a = a[::-1]
 
-
 #重新排序
 a.sort()
 
