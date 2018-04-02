@@ -14,9 +14,9 @@ Assignments for my python course at college.
 
 ## assign1
 
-完成一个根据半径计算圆面积的程序，并输出面积的整数位数。
+Complete a python script for circle area calculation, and print digits of the area's integral part.
 
-例如输入半径```10```：
+e.g. When radius equals ```10```：
 
     Radius? 10
     Area is: 314.1592653589793
@@ -24,24 +24,17 @@ Assignments for my python course at college.
 
 ## assign2
 
-完成注释中的题目。
+Fill in the blank according to comments.
 
 ## assign3-1
 
-分别运用列表推导式和生成器推导式求解所有的水仙花数。
+To be filled.
 
 ## assign3-2
 
-完成一个利用列表推导式求解鸡兔同笼问题的程序。
-
-例如，输入头的数量```10```，脚的数量```26```，输出如下：
-
-    共有多少头？10
-    共有多少脚？26
-    鸡：7
-    兔：3
+To be filled.
 
 ## assign4-1
 
-
+To be filled.
 
