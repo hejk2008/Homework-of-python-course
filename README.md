@@ -2,7 +2,7 @@
 
 Assignments for my python course at college.
 
-[Chinese version](/README_zh_CN.md)
+[Chinese version (中文版)](/README_zh_CN.md)
 
 ## Contents
 
