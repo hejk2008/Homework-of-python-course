@@ -1,6 +1,8 @@
 # Homework-of-python-course
 
-这是我学习Python的历程，代码质量可能不佳，请大家多多指教！
+Assignments for my python course at college.
+
+[Chinese version](/README_zh_CN.md)
 
 ## Contents
 
