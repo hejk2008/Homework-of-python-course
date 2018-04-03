@@ -1,6 +1,6 @@
 # Homework-of-python-course
 
-Assignments for my python course at college.
+This repo is a collection of assignments for my python course at college.
 
 [Chinese version (中文版)](/README_zh_CN.md)
 
