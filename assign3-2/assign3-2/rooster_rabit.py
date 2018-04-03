@@ -2,7 +2,10 @@
 # coding:utf-8
 
 def main():
-    pass
+    head = int(input(''))
+    foot = int(input(''))
+    answer = []
+    print('')
 
 
 if __name__ == '__main__':
