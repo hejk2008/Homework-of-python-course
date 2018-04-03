@@ -28,7 +28,7 @@ Fill in the blank according to comments.
 
 ## assign3-1
 
-To be filled.
+Find all the narcissistic number using generator and iterator.
 
 ## assign3-2
 
