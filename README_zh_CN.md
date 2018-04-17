@@ -10,7 +10,8 @@
 - [assign2](#assign2)
 - [assign3-1](#assign3-1)
 - [assign3-2](#assign3-2)
-- [assign4-1](#assign4-1)
+- [assign4](#assign4)
+- [assign4-advanced](#assign4-advanced)
 
 ## assign1
 
@@ -41,7 +42,10 @@
     鸡：7
     兔：3
 
-## assign4-1
+## assign4
 
-To be filled.
+编写一个将一串数字变为“诗词”文本的程序。
 
+## assign4-advanced
+
+作业4的高级版本，将词库扩大到100词。
