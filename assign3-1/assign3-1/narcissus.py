@@ -5,10 +5,10 @@
 #例如,153是一个水仙花数，因为153=1**3+5**3+3**3。
 #求所有3位数中的水仙花数。
 #方法1：用列表推导式，将下一行补充完整。
-narcissus_list = []
+narcissus_list = [n for n in range(100,1000) if n == (n//100)**3 + (n//10%10)**3 + (n%10)**3]
 print(narcissus_list) 
 
 #方法2：用生成器推导式，将下一行补充完整。
-narcissus_gen = ()
+narcissus_gen = (n for n in range(100,1000) if n == (n//100)**3 + (n//10%10)**3 + (n%10)**3)
 narcissus = [next(narcissus_gen) for x in range(4) ] 
 print(narcissus) 
