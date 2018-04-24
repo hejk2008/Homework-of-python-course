@@ -2,8 +2,6 @@
 
 这是我学习Python的历程，代码可能不够Pythonic，请大家多多指教！
 
-[English version](/README.md)
-
 ## Contents
 
 - [assign1](#assign1)
