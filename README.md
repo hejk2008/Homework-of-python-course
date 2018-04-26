@@ -12,6 +12,9 @@
 - [assign4-advanced](#assign4-advanced)
 - [assign5-1](#assign5-1)
 - [assign5-2](#assign5-2)
+- [assign6-1](#assign6-1)
+- [assign6-2](#assign6-2)
+- [assign6-3](#assign6-3)
 
 ## assign1
 
@@ -52,5 +55,20 @@
 
 ## assign5-1
 
+To be filled.
 
 ## assign5-2
+
+To be filled.
+
+## assign6-1
+
+To be filled.
+
+## assign6-2
+
+To be filled.
+
+## assign6-3
+
+To be filled.
