@@ -1,4 +1,4 @@
-# Homework-of-python-course
+﻿# Homework-of-python-course
 
 这是我学习Python的历程，代码可能不够Pythonic，请大家多多指教！
 
