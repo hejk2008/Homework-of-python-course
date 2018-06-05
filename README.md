@@ -16,6 +16,14 @@
 - [assign6-1](#assign6-1)
 - [assign6-2](#assign6-2)
 - [assign6-3](#assign6-3)
+- [assign7-1](#assign7-1)
+- [assign7-2](#assign7-2)
+- [assign8-1](#assign8-1)
+- [assign8-2](#assign8-2)
+- [assign9-1](#assign9-1)
+- [assign9-2](#assign9-2)
+- [assign10](#assign10)
+- [final-assignment](#final-assignment)
 
 ## assign1
 
@@ -71,5 +79,37 @@ To be filled.
 To be filled.
 
 ## assign6-3
+
+To be filled.
+
+## assign7-1
+
+To be filled.
+
+## assign7-2
+
+To be filled.
+
+## assign8-1
+
+To be filled.
+
+## assign8-2
+
+To be filled.
+
+## assign9-1
+
+To be filled.
+
+## assign9-2
+
+To be filled.
+
+## assign10
+
+To be filled.
+
+## final-assignment
 
 To be filled.
