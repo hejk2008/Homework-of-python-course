@@ -22,6 +22,7 @@
 - [assign9-1](#assign9-1)
 - [assign9-2](#assign9-2)
 - [assign10](#assign10)
+- [assign11](#assign11)
 - [final-assignment](#final-assignment)
 
 ## assign1
@@ -63,11 +64,14 @@
 
 ## assign5-1
 
-To be filled.
+编写Max.py，比较用户输入的两个数，打印较大的那个值
 
 ## assign5-2
 
-To be filled.
+编写ScoreGrade.py，根据用户输入的成绩，打印出对应的等级。假设等级分数对应关系如下：
+
+    百分制	100-90	89.9-85	84.9-82	81.9-78	77.9-75	74.9-71	70.9-66	65.9-62	61.9-60	59.9-0
+    成绩(等级)	A	A-	B+	B	B-	C+	C	C-	D	F
 
 ## assign6-1
 
@@ -99,13 +103,21 @@ To be filled.
 
 ## assign9-1
 
-To be filled.
+编写Leap.py，定义函数isLeap(year), 判断year是否闰年，返回True／False。
 
 ## assign9-2
 
-To be filled.
+编写Palindrome.py，定义函数f1(str)和f2(str)
+
+1）f1把str变为‘回文’（顺读和倒读都一样）。举例:f1('abcd')的结果是‘abcdcba’。
+
+2）f2判断str是否为回文。举例:f2('abcd')的结果是False，而f2('abcba')和f2('abba')的结果是True。
 
 ## assign10
+
+To be filled.
+
+## assign11
 
 To be filled.
 
